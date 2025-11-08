@@ -2,14 +2,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Domenico</h1>
-<h3 align="center">A Data Engineering MSc. Graduated Students in University of Naples Federico II</h3>
+<h1 align="center">Hi 👋, I'm Andrea </h1>
+<h3 align="center">A Computer Engineering BSc. Graduated Students in University of Naples Federico II</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbenf&label=Profile%20views&color=0e75b6&style=flat" alt="dbenf" /> </p>
 
-- 📚 I'm graduated in *Data Engineering and Artificial Intelligence* with a thesis on **Information Retrieval Systems** in June 2023
+- 📚 I'm graduated in *Computer Engineering* with a thesis on **
+Extracting ESG insights using generative AI and Large Language Models** in October 2025
  
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/dBenf?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/andrewng47?tab=repositories)
 
 - 📫 How to reach me **domy.benf@gmail.com**
 
