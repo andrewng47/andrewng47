@@ -7,8 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbenf&label=Profile%20views&color=0e75b6&style=flat" alt="dbenf" /> </p>
 
-- 📚 I'm graduated in *Computer Engineering* with a thesis on **
-Extracting ESG insights using generative AI and Large Language Models** in October 2025
+- 📚 I'm graduated in *Computer Engineering* with a thesis on **Extracting ESG insights using generative AI and Large Language Models** in October 2025
  
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/andrewng47?tab=repositories)
 
