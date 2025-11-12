@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Andrea </h1>
 <h3 align="center">A Computer Engineering BSc. Graduated Students in University of Naples Federico II</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dbenf&label=Profile%20views&color=0e75b6&style=flat" alt="dbenf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewng47&label=Profile%20views&color=0e75b6&style=flat" alt="dbenf" /> </p>
 
 - 📚 I'm graduated in *Computer Engineering* with a thesis on **Extracting ESG insights using generative AI and Large Language Models** in October 2025
  
